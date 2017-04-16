@@ -1,0 +1,12 @@
+c:\users\raviranjankr\documents\visual studio 2015\Projects\BasicMath\BasicMath\bin\Debug\BasicMath.exe
+c:\users\raviranjankr\documents\visual studio 2015\Projects\BasicMath\BasicMath\bin\Debug\BasicMath.pdb
+c:\users\raviranjankr\documents\visual studio 2015\Projects\BasicMath\BasicMath\obj\Debug\BasicMath.exe
+c:\users\raviranjankr\documents\visual studio 2015\Projects\BasicMath\BasicMath\obj\Debug\BasicMath.pdb
+C:\Users\RaviRanjanKr\documents\visual studio 2015\Projects\BasicMath\BasicMath\obj\Debug\BasicMath.csprojResolveAssemblyReference.cache
+H:\SOURCE CODES\UnitTest\BasicMath\BasicMath\obj\Debug\BasicMath.exe
+H:\SOURCE CODES\UnitTest\BasicMath\BasicMath\obj\Debug\BasicMath.pdb
+H:\SOURCE CODES\UnitTest\BasicMath\BasicMath\bin\Debug\BasicMath.exe
+H:\SOURCE CODES\UnitTest\BasicMath\BasicMath\bin\Debug\BasicMath.pdb
+H:\SOURCE CODES\UnitTest\BasicMath\BasicMath\obj\Debug\BasicMath.csprojResolveAssemblyReference.cache
+H:\SOURCE CODES\UnitTest\BasicMath\SimpleUnitTest\BasicMath\obj\Debug\BasicMath.exe
+H:\SOURCE CODES\UnitTest\BasicMath\SimpleUnitTest\BasicMath\obj\Debug\BasicMath.pdb
